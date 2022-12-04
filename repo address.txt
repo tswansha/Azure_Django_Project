@@ -1,0 +1,1 @@
+https://github.com/tswansha/Azure_Django_Project.git
